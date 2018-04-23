@@ -7,5 +7,5 @@ class Dog
   def name
     @ dogname
   end
-    
+
 end
